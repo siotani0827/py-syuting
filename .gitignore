@@ -1,0 +1,11 @@
+# Python 仮想環境
+.venv/
+venv/
+env/
+
+# コンパイル済みのキャッシュ
+__pycache__/
+*.pyc
+
+# OS固有のゴミファイル（Macなら .DS_Store など）
+.DS_Store
