@@ -21,7 +21,9 @@
 | **R キー** | リスタート (ゲームオーバー/クリア時) |
 
 1. タイトル画面
-![Home Screen](Home.png)
+<p align="center">
+  <img src="Home.png" width="600px">
+</p>
 
 ## インストールと実行方法
 1. Python 3.x がインストールされていることを確認してください。
