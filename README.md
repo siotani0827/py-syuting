@@ -21,7 +21,7 @@
 | **R キー** | リスタート (ゲームオーバー/クリア時) |
 
 ## タイトル画面
-![Galaxy Shooter Gameplay](Home.png)
+![Home Screen](Home.png)
 
 ## インストールと実行方法
 1. Python 3.x がインストールされていることを確認してください。
