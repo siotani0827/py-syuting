@@ -25,6 +25,10 @@
   <img src="Home.png" width="600px">
 </p>
 ゲームを開始すると上図のような画面になりギャラクシーゲームができます。
+2. ゲーム画面
+  <p align="center">
+  <img src="Home.png" width="600px">
+</p>
 
 ## インストールと実行方法
 1. Python 3.x がインストールされていることを確認してください。
